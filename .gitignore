@@ -1,0 +1,5 @@
+.DS_Store
+*.dot 
+final_pruned_tree
+optimized_tree
+*.gv
